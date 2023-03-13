@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Name>Hello_world2</Name>
+    <Assembly>Hello_world2.dll</Assembly>
+    <AddInId>B30B4DA9-3830-458D-B23C-70FBEEDB317E</AddInId>
+    <FullClassName>Hello_world2.Class1</FullClassName>
+    <Text>Hello_world2</Text>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>Autodesk, Inc, www.autodesk.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
